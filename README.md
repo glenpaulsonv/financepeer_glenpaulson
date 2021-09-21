@@ -1,2 +1,2 @@
-# dbms_crud_website
- covid platform 
+# README.pdf file attached
+Refer README>pdf file above
